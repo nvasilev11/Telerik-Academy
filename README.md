@@ -12,6 +12,7 @@
 
 - [HTML Fundamentals](homeworks/html/Fundamentals)
 - [Tables](homeworks/html/Tables)
+- [Forms](homeworks/html/Forms and Frames)
 
 [_Go to top_ ^](#telerikacademy)
 
