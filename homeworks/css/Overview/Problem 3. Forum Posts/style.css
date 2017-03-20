@@ -1,0 +1,32 @@
+body {
+  background-color: #b9b9b9;
+}
+#mainHead {
+  text-align: center;
+}
+ul {
+  text-align: center;
+  list-style: none;
+}
+ul>li:last-child {
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+}
+.current {
+  background-color: #d3d3d3;
+}
+ul li>a,
+h1 {
+  color: #fff;
+}
+footer p {
+  font-size: 12px;
+}
+footer p>a {
+  color: #000;
+}
+#bottom {
+  text-align: center;
+}

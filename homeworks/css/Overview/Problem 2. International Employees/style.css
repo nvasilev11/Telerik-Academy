@@ -1,0 +1,25 @@
+#wrapper {
+  padding: 0px;
+  margin: -10px;
+}
+th {
+  background-color: #90ee90;
+  color: #fff;
+  font-weight: normal;
+  font-size: 16px;
+}
+table {
+  background-color: #e5dfc9;
+  td: last-type;
+  border-bottom: 1px solid #000;
+}
+table th,
+td {
+  border-right: 1px solid #000;
+}
+table tr:nth-child(2n+1) {
+  background-color: #fff;
+}
+.flag {
+  border: none;
+}

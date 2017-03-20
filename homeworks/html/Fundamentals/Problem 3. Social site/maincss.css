@@ -1,0 +1,16 @@
+body {
+    background-color: #ADD8E6;
+}
+#nav {
+   list-style: disc;
+}
+#list {
+   list-style: none;
+}
+.nestedlist{
+   list-style: none;
+}
+img{
+   width: 140px;
+   height: 150px;
+}

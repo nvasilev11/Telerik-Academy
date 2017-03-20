@@ -1,0 +1,62 @@
+.main{
+    width:421px;
+    height:537px;
+    background-color: #EEEEEE;
+    border-radius: 8px;
+}
+
+#heading{
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    font-family: 'Lucida Sans';
+    padding-top: 13px;
+    padding-left: 13px;
+}
+
+.artic{
+    position: relative;
+    border: 1px solid #AFAFAF;
+    margin: 38px 10px;
+    width:394px;
+    height:120px;
+    background-color: #FFFFFF;
+}
+.artic:first-of-type{
+    margin: 10px, 10px 38px, 10px;
+}
+.artic img{
+    margin: 16px;
+}
+.text{
+    display: inline-block;
+    position: absolute;
+    top:16px;
+    font-size: 15px;
+}
+.buttons .firstPic{
+    background: url( btn1.png );
+    width:77px;
+    height: 26px;
+    display: inline-block;
+    position: absolute;
+    left: 225px;
+    top: 79px;
+}
+.buttons .secondPic{
+    background: url( ./imgs/btn1.png );
+    width:66px;
+    height: 26px;
+    display: inline-block;
+    position: absolute;
+    left: 304px;
+    top: 79px;
+}
+div span{
+    position: absolute;
+    top: 5px;
+    left: 22px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,14 @@
+table {
+   background-color: rgb(184, 239, 245);
+}
+td {
+   border: 3px solid rgb(52, 159, 246);
+   width: 50px;
+   height: 50px;
+   text-align: center;
+   font-size: 30px;
+}
+#result {
+   padding-right: 5px;
+   text-align: right;
+}

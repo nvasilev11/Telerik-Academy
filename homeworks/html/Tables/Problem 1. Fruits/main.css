@@ -1,0 +1,9 @@
+#picture {
+   width: 200px;
+}
+#textcell {
+   width: 300px;
+}
+table>thead>tr>td {
+   text-align: center;;
+}

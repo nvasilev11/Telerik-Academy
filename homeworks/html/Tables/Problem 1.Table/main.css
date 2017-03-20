@@ -1,0 +1,8 @@
+td {
+   border: 1px solid black;
+   text-align: center;
+   width: 30px;
+}
+.celltexttoright {
+   text-align: right;
+}

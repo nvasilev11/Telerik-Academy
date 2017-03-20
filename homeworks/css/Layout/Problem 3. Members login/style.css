@@ -1,0 +1,84 @@
+body {
+  font-size: 14px;
+  font-family: sans-serif;
+  width:  600px;
+}
+
+  body header {
+    color: #FFF;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
+    background: #45484d; /* Old browsers */
+    background: -moz-linear-gradient(top,  #45484d 0%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+
+    body header div#header-container div#logo-container {
+      position: relative;
+      top: 10px;
+      left: 10px;
+    }
+
+    body header div#header-container div#reg-form-container{
+      font-family: times new roman;
+      font-size: 25px;
+      position: absolute;
+      top: 40px;
+      left: 80px;
+    }
+
+      body header div#header-container div#reg-form-container input{
+        width: 120px;
+      }
+
+      body header div#header-container div#reg-form-container button {
+        position: absolute;
+        top: 5px;
+        left: 450px;
+        background: url(./imgs/go.png);
+        background-repeat: no-repeat;
+        background-size: 55px 27px;
+        border: 1px solid #FFF;
+        border-radius: 11px;
+        width: 55px;
+        height: 27px;
+      }
+
+        body header div#header-container div#reg-form-container button:hover {
+          opacity: 0.8;
+        }
+
+body section {
+  padding: 10px;
+  padding-bottom: 10px;
+  width: 580px;
+  background: #3B3B3B;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+}
+  body section article h1{
+    font-family: times new roman;
+    font-size: 30px;
+    font-weight: lighter;
+    margin:0px;
+    color: #ffd633;
+
+  }
+    body section article p{
+      margin-top: 0px;
+      margin-bottom: 0px;
+      color: #b3b3b3;
+    }
+
+span{
+  color: #ffc;
+}
+#question{
+    margin-bottom: 15px;
+}

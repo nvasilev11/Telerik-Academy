@@ -1,0 +1,13 @@
+p{
+    margin:20px 4px;
+   color: #0094ff;
+   font-family:'Consolas';
+}
+p::first-line{
+    font-weight:600;
+    line-height: 40px;
+}
+p::first-letter{
+    font-family: 'Edwardian Script ITC';
+    font-size: 45px;
+}

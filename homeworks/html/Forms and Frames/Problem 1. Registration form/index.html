@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Index</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <form id="registrationForm">
+        <table id="registrationFormTable">
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="lastName">Last Name</label>
+                        <td><input type="text" id="lastName" class="fullWidth"></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="firstName">First Name</label>
+                        <td><input type="text" id="firstName" class="fullWidth"></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="address">Address</label>
+                        <td><textarea id="address" rows="3" class="fullWidth"></textarea>
+                        </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="city">City</label>
+                        <td>
+                            <input type="text" id="city">
+                            <label for="state">State</label>
+                            <input type="text" id="state" class="minWidth">
+                        </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="zipCode">Zip/Postal Code</label>
+                        <td><input type="text" id="zipCode" class="minWidth"></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="country">Country</label>
+                        <td><select id="country" class="fullWidth">
+                       <option>Bulgaria</option>
+                    </select></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="phone">Phone</label>
+                        <td>
+                            +(
+                            <input type="tel" class="minWidth"> )
+                            <input type="tel" class="minWidth"> -
+                            <input type="tel" id="phone">
+                        </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="email">E-mail</label>
+                        <td><input type="email" id="email" class="fullWidth"></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="birthDate">Birth date</label>
+                        <td><input type="date" id="birthDate" class="fullWidth"></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="gender">Gender</label>
+                        <td><select id="gender" class="fullWidth">
+                       <option>Male</option>
+                       <option>Famale</option>
+                    </select></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="startingDate">Starting date</label>
+                        <td>
+                            <input type="radio" name="startingDate" value="Summer">Summer
+                            <input type="radio" name="startingDate" value="Autumn">Autumn
+                        </td>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="comments">Coments/Questions</label>
+                        <td><textarea id="comments" rows="5" class="fullWidth"></textarea></td>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot><tr>
+               <td colspan="2" id="foot">
+                  <input type="submit" value="Submit">
+                  <button onclick="document.getElementById('registrationForm').reset() ">Clear This Form</button>
+               </td>
+            </tr></tfoot>
+        </table>
+    </form>
+</body>
+
+</html>
