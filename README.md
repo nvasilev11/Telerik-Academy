@@ -12,7 +12,7 @@
 
 - [HTML Fundamentals](homeworks/html/Fundamentals)
 - [Tables](homeworks/html/Tables)
-- [Forms](homeworks/html/Forms and Frames)
+- [Forms](homeworks/html/Forms and Frames
 
 [_Go to top_ ^](#telerikacademy)
 
@@ -30,8 +30,8 @@
 
 ## [JS Fundamentals](homeworks/js-Fundamentals)
 
-- [Operators and Expressions](homeworks/js-Fundamentals/operators and Expressions)
-- [Conditional Statements](homeworks/js-Fundamentals/conditional Statements)
+- [Operators and Expressions](homeworks/js-Fundamentals/operators and Expressions
+- [Conditional Statements](homeworks/js-Fundamentals/conditional Statements
 - [Loops](homeworks/js-Fundamentals/loops)
 - [Arrays](homeworks/js-Fundamentals/arrays)
 - [Functions](homeworks/js-Fundamentals/functions)
