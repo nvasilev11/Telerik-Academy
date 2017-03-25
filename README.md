@@ -56,8 +56,8 @@
 ## [JS UI&DOM](homeworks/js-uidom)
 
 - [DOM](homeworks/js-uidom/document-Object-Model)
-- [DOM-Operations](homeworks/js-uidom/dom-Operations.js)
+- [DOM-Operations](homeworks/js-uidom/dom-Operations)
 - [jQuery](homeworks/js-uidom/jQuery)
-- [Events](homeworks/js-uidom/еventModel.js)
+- [Events](homeworks/js-uidom/еventModel)
 
 [_Go to top_ ^](#telerikacademy)
