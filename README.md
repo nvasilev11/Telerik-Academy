@@ -7,6 +7,7 @@
 | [JS Fundamentals](#js-fundamentals)
 |          [JS OOP](#js-oop)
 |          [JS UI&DOM](#js-uidom)
+|          [JS APPs](#js-apps)
 
 ## [HTML](homeworks/html)
 
@@ -61,3 +62,12 @@
 - [Events](homeworks/js-uidom/еventModel)
 
 [_Go to top_ ^](#telerikacademy)
+
+--------------------------------------------------------------------------------
+
+## [JS APPs](homeworks/js-apps)
+
+
+
+[_Go to top_ ^](#telerikacademy)
+
