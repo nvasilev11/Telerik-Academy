@@ -67,7 +67,7 @@
 
 ## [JS APPs](homeworks/js-apps)
 
-- [Underscore](homeworks/js-uidom/underscor)
+- [Underscore](homeworks/js-uidom/underscore)
 
 [_Go to top_ ^](#telerikacademy)
 
