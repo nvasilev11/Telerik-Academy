@@ -16,5 +16,5 @@ let redirectPromise = new Promise(function(resolve, reject) {
 });
 
 redirectPromise.then(function() {
-  window.location = 'http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/258135/The-25-Best-Internet-Memes-of-All-Time';
+      window.location = 'http://www.inboundmarketingagents.com/inbound-marketing-agents-blog/bid/258135/The-25-Best-Internet-Memes-of-All-Time'
 });
