@@ -67,7 +67,8 @@
 
 ## [JS APPs](homeworks/js-apps)
 
-- [Underscore](homeworks/js-apps/GeoLocation)
-- [Underscore](homeworks/js-apps/Popup-then-load)
+- [GeoLocation](homeworks/js-apps/GeoLocation)
+- [Popup-then-load](homeworks/js-apps/Popup-then-load)
+
 [_Go to top_ ^](#telerikacademy)
 
